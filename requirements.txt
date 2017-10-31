@@ -1,4 +1,4 @@
-cryptography # pyup: >=2.0.3,<3
+cryptography==2.0.0
 lmdb # pyup: >=0.93,<1
 msgpack-python # pyup: >=0.4.8,<1
 psycopg2 # pyup: >=2.7.3,<3
