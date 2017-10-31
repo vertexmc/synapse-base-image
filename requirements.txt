@@ -1,5 +1,5 @@
-cryptography==2.0.0
-lmdb==0.9.3
+cryptography==2.1.2
+lmdb==0.93
 msgpack-python==0.4.8
 psycopg2==2.7.3.2
 pyOpenSSL==17.3.0
